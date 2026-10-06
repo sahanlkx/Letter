@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "For You",
+      "hasCanvas": false,
+      "bodyTextLen": 129,
+      "bodyTextHash": "4853391f9945e20d7eb0e198536f4183da6934b74a305e9241facf3a5397b8eb",
+      "bodyTextPrefix": "A sealed letter For you. I could not say this out loud. The code",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "For You",
+      "hasCanvas": false,
+      "bodyTextLen": 129,
+      "bodyTextHash": "4853391f9945e20d7eb0e198536f4183da6934b74a305e9241facf3a5397b8eb",
+      "bodyTextPrefix": "A sealed letter For you. I could not say this out loud. The code",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
